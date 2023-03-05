@@ -5155,10 +5155,11 @@ Created using IcoMoon - icomoon.io
   content: "";
   border: 15px solid rgba(55, 140, 63, 0.6);
   border-radius: 50%;
-  height: 180px;
-  width: 180px;
+  height: 200px;
+  width: 200px;
   position: absolute;
-  left: 0;
+  top: -90px;
+  left: -10px;
   -webkit-animation: pulsate 1.6s ease-out;
           animation: pulsate 1.6s ease-out;
   -webkit-animation-iteration-count: infinite;
