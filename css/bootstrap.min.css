@@ -994,7 +994,8 @@ pre code {
     }
     .col-md-1 {
         flex: 0 0 8.333333%;
-        max-width: 8.333333%
+        max-width: 8.333333%;
+        column-gap: 10px
     }
     .col-md-2 {
         flex: 0 0 16.666667%;
@@ -1014,7 +1015,7 @@ pre code {
     }
     .col-md-6 {
         flex: 0 0 50%;
-        max-width: 50%
+        max-width: 45%
     }
     .col-md-7 {
         flex: 0 0 58.333333%;
